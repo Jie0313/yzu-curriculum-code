@@ -1,3 +1,3 @@
-# yzu-curriculum-
+# yzu-curriculum-code
 
 ## feat: Tidy Up Curriculum Code Since 113-1
