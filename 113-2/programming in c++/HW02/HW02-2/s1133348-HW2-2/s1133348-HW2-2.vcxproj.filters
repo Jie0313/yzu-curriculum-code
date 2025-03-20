@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Downloads\Assignment 2\Assignment 2-2\string 2-2 - Student ID - hw2.cpp">
+    <ClCompile Include="..\string 2-2 - 1133348 - hw2.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Downloads\Assignment 2\Assignment 2-2\Assignment 2-2.cpp">
+    <ClCompile Include="..\Assignment 2-2.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Downloads\Assignment 2\Assignment 2-2\string 2-2.h">
+    <ClInclude Include="..\string 2-2.h">
       <Filter>來源檔案</Filter>
     </ClInclude>
   </ItemGroup>

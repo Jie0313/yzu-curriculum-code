@@ -1,5 +1,7 @@
 # yzu-curriculum-code
 
+## feat: Update 113-2/programming in c++/HW02/HW02-2
+
 ## feat: Modify Folder Name
 
 1. Path：113-2\programming in c++\HW02\HW02-2

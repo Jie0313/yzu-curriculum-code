@@ -1,15 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\a0031\\Desktop\\s1133348-HW2-2\\",
+  "WorkspaceRootPath": "C:\\Users\\a0031\\Desktop\\school related\\curriculum\\yzu-curriculum-code\\113-2\\programming in c\u002B\u002B\\HW02\\HW02-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F4BDF21-7478-4306-9342-B9248BD48DC9}|s1133348-HW2-2\\s1133348-HW2-2.vcxproj|C:\\Users\\a0031\\Downloads\\Assignment 2\\Assignment 2-2\\string 2-2 - Student ID - hw2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0031\\Downloads\\Assignment 2\\Assignment 2-2\\string 2-2 - Student ID - hw2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0031\\Desktop\\1133348-hw2\\string 2-2 - 1133348 - hw2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F4BDF21-7478-4306-9342-B9248BD48DC9}|s1133348-HW2-2\\s1133348-HW2-2.vcxproj|C:\\Users\\a0031\\Downloads\\Assignment 2\\Assignment 2-2\\Assignment 2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0031\\Downloads\\Assignment 2\\Assignment 2-2\\Assignment 2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,10 +26,10 @@
               "DocumentIndex": 0,
               "Title": "string 2-2 - Student ID - hw2.cpp",
               "DocumentMoniker": "C:\\Users\\a0031\\Downloads\\Assignment 2\\Assignment 2-2\\string 2-2 - Student ID - hw2.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Downloads\\Assignment 2\\Assignment 2-2\\string 2-2 - Student ID - hw2.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Assignment 2\\Assignment 2-2\\string 2-2 - Student ID - hw2.cpp",
               "ToolTip": "C:\\Users\\a0031\\Downloads\\Assignment 2\\Assignment 2-2\\string 2-2 - Student ID - hw2.cpp",
-              "RelativeToolTip": "..\\..\\Downloads\\Assignment 2\\Assignment 2-2\\string 2-2 - Student ID - hw2.cpp",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Assignment 2\\Assignment 2-2\\string 2-2 - Student ID - hw2.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-19T00:24:33.046Z",
               "EditorCaption": ""
@@ -39,9 +39,9 @@
               "DocumentIndex": 2,
               "Title": "Assignment 2-2.cpp",
               "DocumentMoniker": "C:\\Users\\a0031\\Downloads\\Assignment 2\\Assignment 2-2\\Assignment 2-2.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Downloads\\Assignment 2\\Assignment 2-2\\Assignment 2-2.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Assignment 2\\Assignment 2-2\\Assignment 2-2.cpp",
               "ToolTip": "C:\\Users\\a0031\\Downloads\\Assignment 2\\Assignment 2-2\\Assignment 2-2.cpp",
-              "RelativeToolTip": "..\\..\\Downloads\\Assignment 2\\Assignment 2-2\\Assignment 2-2.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Assignment 2\\Assignment 2-2\\Assignment 2-2.cpp",
               "ViewState": "AgIAAE4AAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-07T18:15:17.436Z"
@@ -51,9 +51,9 @@
               "DocumentIndex": 1,
               "Title": "string 2-2 - 1133348 - hw2.cpp",
               "DocumentMoniker": "C:\\Users\\a0031\\Desktop\\1133348-hw2\\string 2-2 - 1133348 - hw2.cpp",
-              "RelativeDocumentMoniker": "..\\1133348-hw2\\string 2-2 - 1133348 - hw2.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\1133348-hw2\\string 2-2 - 1133348 - hw2.cpp",
               "ToolTip": "C:\\Users\\a0031\\Desktop\\1133348-hw2\\string 2-2 - 1133348 - hw2.cpp",
-              "RelativeToolTip": "..\\1133348-hw2\\string 2-2 - 1133348 - hw2.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\1133348-hw2\\string 2-2 - 1133348 - hw2.cpp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-06T18:27:30.377Z"
             }
