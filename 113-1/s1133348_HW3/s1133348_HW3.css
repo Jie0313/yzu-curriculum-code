@@ -1,0 +1,16 @@
+table {
+	border-collapse:collapse;
+}
+td {
+	width:100px;
+	height:100px;
+	text-align:center;
+	vertical-align:top;
+}
+.cell-content 
+{
+	display: flex;
+    flex-direction: column;  
+    align-items: center;     
+    justify-content: flex-start; 
+ }

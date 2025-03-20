@@ -1,0 +1,3 @@
+﻿  1133348-hw10-4.cpp
+C:\Users\a0031\Desktop\1133348-hw10-4\1133348-hw10-4\1133348-hw10-4.cpp(198,65): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  1133348-hw10-4.vcxproj -> C:\Users\a0031\Desktop\1133348-hw10-4\x64\Debug\1133348-hw10-4.exe

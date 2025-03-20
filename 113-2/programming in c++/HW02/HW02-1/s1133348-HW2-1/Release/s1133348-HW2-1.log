@@ -1,0 +1,10 @@
+﻿  Assignment 2-1.cpp
+  string 2-1 - Student ID - hw2.cpp
+C:\Users\a0031\Downloads\Assignment 2\Assignment 2-1\string 2-1 - Student ID - hw2.cpp(23,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\a0031\Downloads\Assignment 2\Assignment 2-1\string 2-1 - Student ID - hw2.cpp(39,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\a0031\Downloads\Assignment 2\Assignment 2-1\string 2-1 - Student ID - hw2.cpp(55,22): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 173 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  s1133348-HW2-1.vcxproj -> C:\Users\a0031\Desktop\s1133348-HW2-1\Release\s1133348-HW2-1.exe

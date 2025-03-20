@@ -1,0 +1,82 @@
+@media screen{
+*{
+	padding:0;
+	margin:0;
+}
+
+.news{
+	color:black;
+	background-image:url("take care of2.png");
+	height:95vh;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content:center;
+}
+.news h2{
+	font-size:60px;
+}
+.news p {
+	color:#FF5809;
+	margin-top:60px;
+	
+	font-size:25px;
+}
+.news a{
+	color:#FF5809;
+	text-decoration:none;
+	border:3px solid #FF5809;
+	padding:10px 20px;
+	border-radius:10px;
+}
+.slogan{
+	background-color:#548C00;
+	color:white;
+	width:100%;
+	height:180px;
+	font-size:25px;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	line-height:1.8em;
+}
+footer{
+	background-color:#467500;
+	color:white;
+	width:100%;
+	height:60px;
+	font-size:14px;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+}
+.form{
+	background-image:url("take care of4.png");
+	height:125vh;
+	background-repeat:no-repeat;
+	background-size:cover;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content:center;
+}
+.form h1{
+	font-size:60px;
+	margin-bottom:30px;
+}
+.form div{
+	color:white;
+	background-color:rgba(70,117,0,0.8);
+	border:5px solid #64A600;
+	border-radius:20px;
+}
+.form p{
+	font-size:25px;
+	margin:20px 35px;
+}
+}

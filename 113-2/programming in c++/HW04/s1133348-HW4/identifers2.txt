@@ -1,0 +1,13 @@
+iostream
+string
+std
+main
+s1
+s2
+s3
+s4
+cout
+cin
+length
+empty
+s5

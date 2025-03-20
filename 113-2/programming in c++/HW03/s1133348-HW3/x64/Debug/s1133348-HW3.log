@@ -1,0 +1,9 @@
+﻿  Student ID - hw3.cpp
+C:\Users\a0031\Downloads\Assignment 3\Student ID - hw3.cpp(181,24): warning C4244: '正在初始化': 將 'vector::difference_type' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a0031\Downloads\Assignment 3\Student ID - hw3.cpp(193,25): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\a0031\Downloads\Assignment 3\Student ID - hw3.cpp(214,22): warning C4244: '正在初始化': 將 'vector::difference_type' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a0031\Downloads\Assignment 3\Student ID - hw3.cpp(393,16): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\a0031\Downloads\Assignment 3\Student ID - hw3.cpp(414,24): warning C4267: '引數': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+C:\Users\a0031\Downloads\Assignment 3\Student ID - hw3.cpp(443,22): warning C4267: '引數': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+C:\Users\a0031\Downloads\Assignment 3\Student ID - hw3.cpp(446,15): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  s1133348-HW3.vcxproj -> C:\Users\a0031\Desktop\s1133348-HW3\x64\Debug\s1133348-HW3.exe

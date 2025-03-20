@@ -1,0 +1,106 @@
+<!DOCYYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>你的後半輩子由我守護</title>
+	<link rel="stylesheet" href ="s1133348_HW2.css">
+	<style>
+	header{
+	background-color:#467500;
+	width:100%;
+	height:80px;
+	position:fixed;
+}
+	header a{
+		color:white;
+		text-decoration:none;
+		
+	}
+	header a:hover{
+		text-decoration:underline;
+	}
+	header li{
+		display:inline;
+		margin-right:3vw;
+	}
+	header ul{
+		position:absolute;
+		right:3vw;
+		top:0;
+		line-height:80px;
+	}
+	header h1{
+		position:absolute;
+		top:0;
+		left:120px;
+		line-height:80px;
+	}
+	@media screen and (device-width: 393px) and (device-height: 852px) and (-webkit-device-pixel-ratio: 3) { 
+		header{
+	background-color:#3A006F;
+	width:100%;
+	height:80px;
+	position:fixed;
+}
+	}
+	</style>
+</head>
+<body>
+	<header>
+		<h1 style="color:white;">往後的依靠</h1>
+		<nav>
+		<ul>
+			<li><a href = "#">最新消息</a></li>
+			<li><a href = "#">關於我們</a></li>
+			<li><a href = "#">未來願景</a></li>
+			<li><a href = "#">公司理念</a></li>
+		
+		</ul>
+		</nav>
+		</header>
+	<main>
+		<section class="news">
+			<h2>守護愛的每一天</h2>
+			<h2>健康照護，永遠的陪伴</h2>
+			
+			<p><a href="#">瞭解更多</a></p>
+		</section>
+		<section class="slogan">
+			<blockquote><em>與其獨行，不如同行</em></blockquote>
+			<blockquote><em>陪伴是最長情的告白</em></blockquote>
+		</section>
+		<section class="form">
+			
+			<h1>募款資訊</h1>
+			<div>
+			<p>請輸入個人資訊</p>
+			<form method="post" action="s1133348_HW2.php">
+				<p><label>姓名:
+					<input name="name" type="text" size="25" required>
+				</p></label>
+				<p><label>電話:
+					<input name="cellphone" type="tel" placeholder="09XX-XXX-XXX" pattern="09\d{2}-\d{3}-\d{3}" required>
+				</p></label>
+				<p><label>電子郵件:
+					<input name="email" type="email" placeholder="name@domain.com" required>
+				</p></label>
+				<p><label>捐款金額:
+					<input name="money" type="text" pattern="\d+" required>
+				</p></label>
+				<p>捐款方式
+					<label><input name="method" type="radio" value="現金捐款" checked>現金捐款</label>
+					<label><input name="method" type="radio" value="銀行轉帳" >銀行轉帳</label>
+					<label><input name="method" type="radio" value="信用卡" >信用卡</label>
+				</p>
+				<p>
+					<input type="submit" value="送出">
+				</p>
+				</div>
+			</form>
+		</section>
+	</main>
+	<footer>
+	<p>往後的依靠，永遠守護你的每一天</p>
+	</footer>
+</body>
+</html>

@@ -1,0 +1,8 @@
+﻿  string 2-3 - Student ID - hw2.cpp
+C:\Users\a0031\Downloads\Assignment 2\Assignment 2-3\string 2-3 - Student ID - hw2.cpp(68,18): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a0031\Downloads\Assignment 2\Assignment 2-3\string 2-3 - Student ID - hw2.cpp(86,19): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a0031\Downloads\Assignment 2\Assignment 2-3\string 2-3 - Student ID - hw2.cpp(87,22): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\a0031\Downloads\Assignment 2\Assignment 2-3\string 2-3 - Student ID - hw2.cpp(103,16): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a0031\Downloads\Assignment 2\Assignment 2-3\string 2-3 - Student ID - hw2.cpp(97,1): warning C4715: 'string::insert': 不是所有控制路徑都傳回值
+C:\Users\a0031\Downloads\Assignment 2\Assignment 2-3\string 2-3 - Student ID - hw2.cpp(114,1): warning C4715: 'string::erase': 不是所有控制路徑都傳回值
+  s1133348-HW2-3.vcxproj -> C:\Users\a0031\Desktop\s1133348-HW2-3\x64\Debug\s1133348-HW2-3.exe

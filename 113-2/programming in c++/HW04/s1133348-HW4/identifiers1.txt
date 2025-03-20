@@ -1,0 +1,8 @@
+iostream
+std
+main
+s1
+s2
+cout
+cin
+i

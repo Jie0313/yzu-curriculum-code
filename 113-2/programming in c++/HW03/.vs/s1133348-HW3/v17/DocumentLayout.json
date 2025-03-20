@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a0031\\Desktop\\s1133348-HW3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A617625-B630-4ADE-ABB1-4BABDF5C0AD5}|s1133348-HW3\\s1133348-HW3.vcxproj|C:\\Users\\a0031\\Downloads\\Assignment 3\\Student ID - hw3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0031\\Desktop\\1133348 - hw3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student ID - hw3.cpp",
+              "DocumentMoniker": "C:\\Users\\a0031\\Downloads\\Assignment 3\\Student ID - hw3.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\Assignment 3\\Student ID - hw3.cpp",
+              "ToolTip": "C:\\Users\\a0031\\Downloads\\Assignment 3\\Student ID - hw3.cpp",
+              "RelativeToolTip": "..\\..\\Downloads\\Assignment 3\\Student ID - hw3.cpp",
+              "ViewState": "AgIAAOwBAAAAAAAAAAAUwAICAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T09:26:34.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1133348 - hw3.cpp",
+              "DocumentMoniker": "C:\\Users\\a0031\\Desktop\\1133348 - hw3.cpp",
+              "RelativeDocumentMoniker": "..\\1133348 - hw3.cpp",
+              "ToolTip": "C:\\Users\\a0031\\Desktop\\1133348 - hw3.cpp",
+              "RelativeToolTip": "..\\1133348 - hw3.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T14:50:32.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
